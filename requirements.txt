@@ -1,0 +1,7 @@
+ipywidgets
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn
+transfomers
